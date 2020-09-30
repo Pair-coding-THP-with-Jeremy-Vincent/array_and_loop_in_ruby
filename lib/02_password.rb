@@ -16,7 +16,6 @@ def login(password)
         print "> "
         try_password_user = gets.chomp
     end
-    #return true
 end
 
 #Méthode Welcome Screen
